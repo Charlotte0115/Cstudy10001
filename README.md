@@ -8,6 +8,8 @@ int main(void)
     {
         for (j = 0; j < 7; j++
         {
-
+            if ( i == j ) mark[i][j] = 'A';
+        }
     }
+    return 0;
 }
