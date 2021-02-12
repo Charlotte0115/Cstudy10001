@@ -1,1 +1,6 @@
-# Cstudy10001
+#include <stdio.h>
+
+int main(void)
+{
+
+}
