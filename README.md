@@ -11,5 +11,6 @@ int main(void)
             if ( i == j ) mark[i][j] = 'A';
         }
     }
+    
     return 0;
 }
